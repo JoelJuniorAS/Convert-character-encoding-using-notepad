@@ -18,3 +18,6 @@ Easily convert your project character encoding to UTF-8 or any other NotePad++ s
        Ex: line 9- notepad.runMenuCommand("Encoding", "Convert to ANSI")
 
 5- Puglins -> Phyton Script -> Scripts(you should find the name of your script) -> UTF-8 no Dom converter.
+
+OBS: You can change line 6 to only accept your project's language.
+     Ex: line 6- if fn[-5:] == '.java'
